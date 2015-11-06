@@ -3,3 +3,11 @@ total 16
 -rw-r--r--@ 1 silverleaf  staff   165B 11  6 20:27 contents.xcplayground
 drwxr-xr-x  4 silverleaf  staff   136B 11  6 20:27 playground.xcworkspace
 -rw-r--r--  1 silverleaf  staff     0B 11  6 20:35 test.txt
+
+
+this is a test file;
+for git test;
+if we are using git;
+or learning git;
+we need a playgroud.
+
