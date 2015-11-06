@@ -1,0 +1,5 @@
+total 16
+-rw-r--r--@ 1 silverleaf  staff    98B 11  6 20:27 Contents.swift
+-rw-r--r--@ 1 silverleaf  staff   165B 11  6 20:27 contents.xcplayground
+drwxr-xr-x  4 silverleaf  staff   136B 11  6 20:27 playground.xcworkspace
+-rw-r--r--  1 silverleaf  staff     0B 11  6 20:35 test.txt
